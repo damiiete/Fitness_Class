@@ -20,4 +20,4 @@ Two distinct models were employed for this purpose: the base model, `LogisticReg
 
 Upon evaluating the models based on the precision performance metric, it was determined that the **Logistic Regression** model exhibited superior performance, outperforming the RandomForestClassifier by approximately 5%.
 
-For a more detailed exploration of the analysis, models, and results, please refer to the [notebook](https://github.com/damiiete/Fitness_Class/blob/main/notebook.ipynb).
+For a more detailed exploration of the analysis, models, and results, please refer to the [notebook](https://github.com/damiiete/Fitness_Class/blob/main/notebook.ipynb). 
